@@ -15,7 +15,7 @@
   const removeReaction = async emoji_id => {
     try {
       const res = await fetch(
-        `${$session.server}recipes/${recipeID}/emojis/${emoji_id}`,
+        `${$session.server}/recipes/${recipeID}/emojis/${emoji_id}`,
         {
           method: 'DELETE',
           headers: {
