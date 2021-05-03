@@ -1,5 +1,5 @@
 # Bite Size
-Bite Size is a full-flavoured recipe app, that trimmed the fat, and is presented in a bite-sized, easily digestable format. The application uses [Svelte](https://svelte.dev/) and [Sapper](https://sapper.svelte.dev/) in the front-end and [Fastify](https://www.fastify.io/) as the back-end server. We also use [Cloudinary](https://cloudinary.com/) for image hosting and [Fuse.js](https://fusejs.io/) for its powerful search functionality.
+Bite Size is a full-flavoured recipe app, that trimmed the fat, and is presented in a bite-sized, easily digestible format. The application uses [Svelte](https://svelte.dev/) and [Sapper](https://sapper.svelte.dev/) in the front-end and [Fastify](https://www.fastify.io/) as the back-end server. We also use [Cloudinary](https://cloudinary.com/) for image hosting and [Fuse.js](https://fusejs.io/) for its powerful search functionality.
 
 This project was developed by [Eppa Lea Turniawan](https://github.com/eppalea), [Evan Quirk](https://github.com/evanquirk) and [Sydney Sisco](https://github.com/sydney-sisco).
 
